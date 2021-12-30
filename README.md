@@ -1,2 +1,2 @@
-# TetesFuncional
+# TesteFuncional
 teste de automação web
